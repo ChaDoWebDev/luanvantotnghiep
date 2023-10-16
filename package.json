@@ -1,0 +1,23 @@
+{
+  "name": "qltb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaDoWebDev/luanvantotnghiep.git"
+  },
+  "author": "LN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaDoWebDev/luanvantotnghiep/issues"
+  },
+  "homepage": "https://github.com/ChaDoWebDev/luanvantotnghiep#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
